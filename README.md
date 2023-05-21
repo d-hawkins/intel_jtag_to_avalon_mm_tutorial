@@ -1,10 +1,10 @@
 # Intel JTAG-to-Avalon-MM Tutorial
 
-5/20/2023 David W. Hawkins (dwh@caltech.edu)
+5/21/2023 David W. Hawkins (dwh@caltech.edu)
 
 # Introduction
 
-This repository contains an Intel JTAG-to-Avalon-MM tutorial developed using the Terasic DE0-nano Cyclone IV development board using Intel Quartus Prime Lite 22.1.1. This tutorial is an updated version of the Altera JTAG-to-Avalon-MM tutorial created using Altera Quartus II 11.1sp1 in March 2012. The older tutorial is implemented using the Altera system builder tools SOPC Builder and Qsys, while the newer tutorial uses Intel Platform Designer (which is the new name for Qsys). Both tutorials are available on github.
+This repository contains an Intel JTAG-to-Avalon-MM tutorial developed using Intel Quartus Prime Lite 22.1.1, targeting the Terasic DE0-nano Cyclone IV development board. This tutorial is an updated version of the Altera JTAG-to-Avalon-MM tutorial created using Altera Quartus II 11.1sp1 in March 2012. The older tutorial is implemented using the Altera system builder tools SOPC Builder and Qsys, while the newer tutorial uses Intel Platform Designer (which is the new name for Qsys). Both tutorials are available on github.
 
 
 JTAG-to-Avalon-MM Tutorial repository                          | Tool Version
